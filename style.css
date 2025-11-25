@@ -19,7 +19,7 @@
         background: purple;
         filter: blur(140px);
         animation: glow 6s infinite alternate ease-in-out;
-        z-index: 1;
+        
     }
     .login-box{
         width: 360px;
@@ -122,3 +122,4 @@
             font-size: 14px;
         }
     }
+
